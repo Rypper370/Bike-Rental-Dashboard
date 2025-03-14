@@ -28,7 +28,9 @@ pip install -r requirements.txt
 2. Buka terminal atau command prompt, lalu arahkan ke direktori yang berisi file tersebut.
 3. Jalankan perintah berikut:
    ```
+   ```
    streamlit run dashboard.py
+   ```
    ```
 4. Aplikasi akan berjalan di browser dengan alamat default `http://localhost:8501/`.
 ```
