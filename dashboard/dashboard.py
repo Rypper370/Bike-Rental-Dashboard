@@ -34,7 +34,7 @@ def create_workingday_season(df):
     return workingday_season
 
 #load data
-day_df = pd.read_csv("day.csv")
+day_df = pd.read_csv("dashboard/day.csv")
 datetime_column = ["dteday"]
 day_df.sort_values(by="dteday", inplace=True)
 day_df.reset_index(inplace=True)
