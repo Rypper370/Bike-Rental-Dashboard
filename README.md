@@ -31,7 +31,7 @@ pip install -r requirements.txt
 ```
 
 ## Fitur Dashboard
-```
+
 1. **Filter Rentang Waktu**: Sidebar memungkinkan pengguna memilih rentang tanggal untuk analisis.
 2. **Statistik Umum**:
    - Total penyewaan selama periode yang dipilih
@@ -41,6 +41,6 @@ pip install -r requirements.txt
 3. **Tren Penyewaan Harian**: Grafik garis yang menampilkan total penyewaan per hari.
 4. **Penyewaan Berdasarkan Musim**: Grafik batang yang menunjukkan jumlah penyewaan di setiap musim.
 5. **Perbandingan Penyewaan Hari Kerja dan Akhir Pekan**: Grafik batang yang membandingkan rata-rata penyewaan di hari kerja dan akhir pekan untuk setiap musim.
-```
+
 
 
